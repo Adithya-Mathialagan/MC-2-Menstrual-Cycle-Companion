@@ -1,7 +1,7 @@
 # MC-2-Menstrual-Cycle-Companion
 
 
-## This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
+### This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
 
 ## How is this done?
 
@@ -24,4 +24,4 @@ https://github.com/Adithya-Mathialagan/MC-2-Menstrual-Cycle-Companion/tree/main/
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## This project was built during Heal-O-Code 2023 24 Hour Hackathon and was placed 11th out of 140+ teams
+### This project was built during Heal-O-Code 2023 24 Hour Hackathon and was placed 11th out of 140+ teams
