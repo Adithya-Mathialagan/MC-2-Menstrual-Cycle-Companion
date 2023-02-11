@@ -14,15 +14,28 @@ Steps Involved:
 2. Building the application using Javascript and ReactJS.
 
 ## Screenshots:
-Accuracies of different CNN models:
+Home Screen:
 <p align="center">
   <img src="Accuracy.png" width="400" >
 </p>
 <br/>
-Final Graph:
+Enter Symptoms:
 <p align="center">
   <img src="Graph.png" width="400" >
 </p>
+Treatment and Food Recommendation:
+<p align="center">
+  <img src="Graph.png" width="400" >
+</p>
+Exercise Recommendation:
+<p align="center">
+  <img src="Graph.png" width="400" >
+</p>
+Buy Products:
+<p align="center">
+  <img src="Graph.png" width="400" >
+</p>
+
 
 ## To run the code:
 
@@ -30,4 +43,4 @@ Final Graph:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## This project was built during Heal-O-Code 2023 and was placed 11th out of 140+ teams
+## This project was built during Heal-O-Code 2023 24 Hour Hackathon and was placed 11th out of 140+ teams
