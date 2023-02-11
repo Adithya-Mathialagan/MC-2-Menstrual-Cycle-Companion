@@ -14,19 +14,16 @@ By developing a user-friendly application to support rural women during menstrua
 2. Building the application using Javascript and ReactJS.
 
 ## Screenshots:
-Home Screen:
+
 <p>
+  Home Screen:
   <img src="HomePage.png" width="100" >
-</p>
-<br/>
-Enter Symptoms:
-<p align="center">
+  Enter Symptoms:
   <img src="Symptoms.png" width="100" >
-</p>
-Treatment and Food Recommendation:
-<p align="center">
+  Treatment and Food Recommendation:
   <img src="Treatment.png" width="100" >
 </p>
+<br/>
 Exercise Recommendation:
 <p align="center">
   <img src="Yoga.png" width="100" >
