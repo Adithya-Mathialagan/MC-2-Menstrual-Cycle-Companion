@@ -15,7 +15,8 @@ By developing a user-friendly application to support rural women during menstrua
 
 ## Screenshots:
 
-To check Application screenshots: https://github.com/Adithya-Mathialagan/MC-2-Menstrual-Cycle-Companion/tree/main/ScreenShots
+To check Application screenshots: 
+https://github.com/Adithya-Mathialagan/MC-2-Menstrual-Cycle-Companion/tree/main/ScreenShots
 
 ## To run the code:
 
