@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# MC-2-Menstrual-Cycle-Companion
 
 In the project directory, you can run:
 
