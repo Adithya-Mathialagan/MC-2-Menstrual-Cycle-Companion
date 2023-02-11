@@ -1,9 +1,9 @@
 # MC-2-Menstrual-Cycle-Companion
 
 
-## This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
+### This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
 
-## How can this be done?
+### How can this be done?
 
 By developing a user-friendly application to support rural women during menstrual discomfort by providing awareness, backed by moral support and personalized treatment recommendations inclusive of nutrition, yoga, and exercise.
 
@@ -19,7 +19,7 @@ Steps Involved:
 
 This project was built during Heal-O-Code 2023 and was placed 11th out of 140+ teams
 
-In the project directory, you can run:
+### In the project directory, you can run:
 
 ### `npm start`
 Runs the app in the development mode.\
