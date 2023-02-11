@@ -17,11 +17,11 @@ By developing a user-friendly application to support rural women during menstrua
 
 <p>
   <img align="left" src="HomePage.png" width="200" >
-  <img align="centre" src="Symptoms.png" width="200" >
+  <img align="center" src="Symptoms.png" width="200" >
   <img align="right" src="Treatment.png" width="200" >
 </p>
 <br/>
-<p align="centre">
+<p align="center">
   <img src="Yoga.png" width="200" >
   <img src="Education.png" width="200" >
   <img src="Products.png" width="200" >
