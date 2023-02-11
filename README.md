@@ -24,9 +24,9 @@ Final Graph:
   <img src="Graph.png" width="400" >
 </p>
 
-### In the project directory, you can run:
+## To run the code:
 
-### `npm start`
+#### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
