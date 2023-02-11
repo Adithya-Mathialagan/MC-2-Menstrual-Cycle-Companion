@@ -15,7 +15,7 @@ By developing a user-friendly application to support rural women during menstrua
 
 ## Screenshots:
 
-<p align-items="center">
+<p align="center">
   <img src="HomePage.png" width="200" >
   <img src="Symptoms.png" width="200" >
   <img src="Treatment.png" width="200" >
