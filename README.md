@@ -21,10 +21,10 @@ By developing a user-friendly application to support rural women during menstrua
   <img align="right" src="Treatment.png" width="200" >
 </p>
 <br/>
-<p >
-  <img src="Yoga.png" width="200" >
-  <img src="Education.png" width="200" >
-  <img src="Products.png" width="200" >
+<p align="center">
+  <img align="left" src="Yoga.png" width="200" >
+  <img align="center" src="Education.png" width="200" >
+  <img align="right" src="Products.png" width="200" >
 </p>
 
 
