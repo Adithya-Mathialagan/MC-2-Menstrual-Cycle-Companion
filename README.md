@@ -17,11 +17,11 @@ By developing a user-friendly application to support rural women during menstrua
 
 <p>
   Home Screen:
-  <img src="HomePage.png" width="100" >
+  <img src="HomePage.png" width="200" >
   Enter Symptoms:
-  <img src="Symptoms.png" width="100" >
+  <img src="Symptoms.png" width="200" >
   Treatment and Food Recommendation:
-  <img src="Treatment.png" width="100" >
+  <img src="Treatment.png" width="200" >
 </p>
 <br/>
 Exercise Recommendation:
