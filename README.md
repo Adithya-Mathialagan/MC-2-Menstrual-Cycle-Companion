@@ -1,4 +1,4 @@
-# MC-2-Menstrual-Cycle-Companion
+# MC^2-Menstrual-Cycle-Companion
 
 
 ### This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
