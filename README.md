@@ -13,6 +13,17 @@ Steps Involved:
 
 2. Building the application using Javascript and ReactJS.
 
+## Screenshots:
+Accuracies of different CNN models:
+<p align="center">
+  <img src="Accuracy.png" width="400" >
+</p>
+<br/>
+Final Graph:
+<p align="center">
+  <img src="Graph.png" width="400" >
+</p>
+
 ### In the project directory, you can run:
 
 ### `npm start`
